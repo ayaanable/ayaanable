@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayaan Singh
-- 👀 I’m interested in BackEnd Developent and CybeerSecurity with some curiosity for FrontEnd as well.
+- 👀 I’m interested in BackEnd Developent and CyberSecurity with some curiosity for FrontEnd as well.
 - 🌱 I’m currently learning Python Libraries and C along with DBMS and I am currently enrolled in a FullStack course.
 - 💞️ I’m looking to collaborate on fascinating unique ideas which seem crazy
 - 📫 You can reach me on ayaansingh4492@gmail.com and on Instagram @maanscrypt
